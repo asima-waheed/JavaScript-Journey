@@ -49,13 +49,13 @@ JavaScript
 
 This section demonstrates the initial structure and interactive behavior execution.
 
-Code & Output Preview
+## Code & Output Preview
 
-"Code Output" (./assets/images/D-1-html-code-output.png)
+![Code Output] (./assets/images/D-1-html-code-output.png)
 
-Interactive Pop-up Preview
+## Interactive Pop-up Preview
 
-"Popup Button" (./assets/images/D-1-css-button-output.png)
+![CSS & Popup Button] (./assets/images/D-1-css-button-output.png)
 
 ---
 
