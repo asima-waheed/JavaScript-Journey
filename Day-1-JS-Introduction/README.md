@@ -63,13 +63,20 @@ This section demonstrates the initial structure and interactive behavior executi
 Directory Architecture
 
 JavaScript-Journey/
+
 │
 └── Day-1-JS-Introduction/
+
     ├── index.html
+    
     ├── style.css
+    
     ├── README.md
+    
     └── assets/
+    
         └── images/
+        
             ├── D-1-html-code-output.png
             └── D-1-css-button-output.png
 
