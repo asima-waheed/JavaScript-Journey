@@ -84,7 +84,7 @@ JavaScript-Journey/
 
 🚀 Live Demo
 
-🔗 "Click here to view the live project" (https://asima-javascript-journey.vercel.app)
+🔗 "Click here to view the live project" (https://asima-javascript-learning-journey.vercel.app/Day-1-JS-Introduction/index.html))
 
 ---
 
