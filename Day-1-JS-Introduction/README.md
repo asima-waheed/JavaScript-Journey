@@ -77,13 +77,13 @@ JavaScript-Journey/
 
 ---
 
-🚀 Live Demo
+#### 🚀 Live Demo
 
 🔗 "Click here to view the live project"  (https://asima-javascript-journey.vercel.app)
 
 ---
 
-🌱 My Learning Journey
+#### 🌱 My Learning Journey
 Having reinforced my HTML and CSS foundations, I have officially launched into JavaScript programming workflows.
 
 I strongly believe that tracking small everyday breakthroughs creates a strong long-term technical foundation.
