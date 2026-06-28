@@ -52,8 +52,8 @@ This section demonstrates the initial structure and interactive behavior executi
     <td><b>Interactive CSS & Pop-up Preview</b></td>
   </tr>
   <tr>
-    <td><img src="Day-1-JS-Introduction/assets/images/D-1-html-code-output.png" width="100%"></td>
-    <td><img src="Day-1-JS-Introduction/assets/images/D-1-css-button-output.png" width="100%"></td>
+    <td><img src="assets/images/D-1-html-code-output.png" width="100%"></td>
+    <td><img src="assets/images/D-1-css-button-output.png" width="100%"></td>
   </tr>
 </table>
 
