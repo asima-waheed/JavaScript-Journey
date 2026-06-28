@@ -51,8 +51,8 @@ This section demonstrates the initial structure, styled interface, and code conf
     <td><b>2. HTML & JavaScript Integrated Codebase</b></td>
   </tr>
   <tr>
-    <td><img src="Day-3-JS-Variables/assets/images/Day-3-html-code-output.png" width="100%"></td>
-    <td><img src="Day-3-JS-Variables/assets/images/Day-3-html-js-code.png" width="100%"></td>
+    <td><img src="assets/images/Day-3-html-code-output.png" width="100%"></td>
+    <td><img src="assets/images/Day-3-html-js-code.png" width="100%"></td>
   </tr>
 </table>
 
@@ -61,9 +61,9 @@ This section demonstrates the initial structure, styled interface, and code conf
     <td><b>4. HTML & README.md Script </b></td>
   </tr>
   <tr>
-    <td><img src="Day-3-JS-Variables/assets/images/Day-3-js-code-console-output.png" width="100%">
+    <td><img src="assets/images/Day-3-js-code-console-output.png" width="100%">
     </td>
-    <td><img src="Day-3-JS-Variables/assets/images/Day-3-html-readme-file.png" width="100%"></td>
+    <td><img src="assets/images/Day-3-html-readme-file.png" width="100%"></td>
   </tr>
 </table>
 
