@@ -51,8 +51,8 @@ This section demonstrates the initial structure, styled interface, and code conf
     <td><b>2. CSS Styled Interface Output</b></td>
   </tr>
   <tr>
-    <td><img src="images/Day-2-html-code-output.png" width="100%"></td>
-    <td><img src="images/Day-2-css-output.png" width="100%"></td>
+    <td><img src="assets/images/Day-2-html-code-output.png" width="100%"></td>
+    <td><img src="assets/images/Day-2-css-output.png" width="100%"></td>
   </tr>
 </table>
 
@@ -62,8 +62,8 @@ This section demonstrates the initial structure, styled interface, and code conf
     <td><b>4. JS Console Logs & Data Output</b></td>
   </tr>
   <tr>
-    <td><img src="images/Day-2-html-js-code.png" width="100%"></td>
-    <td><img src="images/Day-2-jscode-console-output.png" width="100%"></td>
+    <td><img src="assets/images/Day-2-html-js-code.png" width="100%"></td>
+    <td><img src="assets/images/Day-2-jscode-console-output.png" width="100%"></td>
   </tr>
 </table>
 ---
