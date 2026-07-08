@@ -95,7 +95,7 @@ JavaScript-Journey/
             └──Day-3-js-code-console-output.png
 
 ### 🚀 Live Demo
-🔗 Click here to view the live project
+🔗 Click here to view the live project [ https://asima-javascript-learning-journey.vercel.app/Day-3-JS-Variables/index.html ]
 
 ### 🌱 My Learning Journey
 Having reinforced my HTML and CSS foundations, I have officially launched into JavaScript programming workflows.
