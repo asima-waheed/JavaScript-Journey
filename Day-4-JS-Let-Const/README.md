@@ -98,7 +98,8 @@ JavaScript-Journey/
 
 <h3>🚀 Live Interactive Preview</h3>
 
-🔗 [Explore the live workspace on Vercel](https://asima-javascript-journey.vercel.app)
+🔗 Explore the Live Demo Link:
+ [https://asima-javascript-learning-journey.vercel.app/Day-4-JS-Let-Const/index.html] 
 
 ---
 
