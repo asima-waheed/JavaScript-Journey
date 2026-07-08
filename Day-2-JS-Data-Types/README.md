@@ -93,7 +93,7 @@ JavaScript-Journey/
 
 #### **Live Demo**:
 
-🔗 Click here to view the live project [  ]
+🔗 Click here to view the live project [ https://asima-javascript-learning-journey.vercel.app/Day-2-JS-Data-Types/index.html ]
 
 ---
 
