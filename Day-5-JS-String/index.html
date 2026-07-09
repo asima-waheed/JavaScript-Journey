@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day-5: JavaScript String</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Day-5: JavaScript String</h1>
+
+        <h2>For Inspect the code ( Ctrl + Shift + I )</h2>
+
+        <p>A String is simply a collection of characters (letters, numbers, spaces, or symbols) 
+            wrapped inside quotation marks. In JavaScript, we can use single quotes ('...'), 
+            double quotes ("..."), or backticks (`...`) to create a string.</p>
+    
+    <h1>The Master String Grouping</h1>
+
+        <h2>A. Building Strings:</h2>
+
+            <h3>(1) Concatenation:</h3>
+
+                <p>Concatenation means joining two or more strings together to form
+                    a single string. Traditionally, this is done using the plus sign (+) operator.</p>
+
+            <h3>(2) Template Literals:</h3>
+
+                <p>Template Literals are a modern, cleaner way to build strings using 
+                    backticks (`...`) instead of quotes. Instead of using the + operator, 
+                    We can inject variables directly into the string using the 
+                    ${variable} syntax.</p>
+
+        <h2>B. Inspecting Strings</h2>
+
+            <h3>(3) The .length Property</h3>
+
+                <p>The .length property counts the total number of characters inside a 
+                    string, including letters, numbers, symbols, and spaces. 
+                    It is a property, not a method, so it does not use parentheses ().</p>
+
+            <h3>(4) Character Access (.charAt() & Bracket Notation)</h3>
+
+                <p>Character access allows you to grab a single character from a string
+                    based on its position, known as its index. In JavaScript, 
+                    tracking always starts at index 0 (the first character)..</p>
+
+        <h2>C. Cleaning & Modifying Strings</h2>
+         
+            <h3>(5) The .trim() Method</h3>
+
+                <p>The .trim() method removes whitespace from both ends of a string.</p>
+
+            <h3>(6) Case Conversions (.toUpperCase() & .toLowerCase())</h3>
+
+                <p>The .toUpperCase() method converts a string to uppercase, 
+                    while the .toLowerCase() method converts it to lowercase.</p>
+
+        <h2>D. Searching & Cutting Strings</h2>
+
+            <h3>(7) Searching Strings (.includes() & .indexOf())</h3>
+
+                <p>These tools help you search a string to see if a specific letter or 
+                    word exists inside it.
+
+                <p>♦ .includes() answers with a simple True or False.</p>
+
+                    <p>♦ Use .includes() when you just want a clean true or false answer to 
+                        check if a word exists.</p>
+            
+                <p>♦ .indexOf() returns the exact starting position number (index) 
+                    where the word begins. If it cannot find the word, it returns -1.</p>
+
+                    <p>♦ Use .indexOf() when you need the exact position number of a word.</p>
+
+            <h3>(8) Extracting Substrings (.slice())</h3>
+
+                <p>The .slice(start, end) method cuts out a piece of a string 
+                    and returns it as a new string..</p>
+
+            <h3>(9) Replacing Text (.replace() & .replaceAll())</h3>
+
+                <p>The .replace() method finds a specific word or character inside a 
+                    string and swaps it out for a new value. Standard .replace() only 
+                    changes the very first match it finds, while .replaceAll() updates 
+                    every single match across the entire string..</p>
+
+        <h2>E. Data Conversions (String ⇄ Array)</h2>
+
+            <h3>(10) Splitting Strings (.split())</h3>
+
+                <p>The .split() method splits a string into an array of 
+                    substrings based on a specified separator.</p>
+
+                    <p>♦ .split() moves data from a String ➡️ Array (Cuts it up).</p>
+
+            <h3>(11) Joining Strings (.join())</h3>
+
+                <p>The .join() method joins all elements of an array into a string, 
+                    with an optional separator.</p>
+
+                    <p>♦ .join() moves data from an Array ➡️ String (Glues it together).</p>
+                        
+                        
+
+    <script src="script.js"></script>
+
+</body>
+</html>
