@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day: 8- JS- Scope</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Day:8 - JS Scope</h1>
+
+        <h2>Scope in JavaScript</h2>
+
+            <p><strong>Scope</strong> determines where your variables can be seen, 
+                accessed, or used in your code. Think of scope as a security border 
+                around your variables.</p>
+ 
+        <h2>Global Scope vs. Block / Local Scope</h2>
+
+                <p> <strong>1. Global Scope:</strong> Variables declared outside of any
+                     function or code block {}. They can be accessed from anywhere in
+                      your entire JavaScript file. </p>
+
+                <p> <strong>2. Block / Local Scope:</strong> Variables declared inside a
+                     specific code block {} (like inside an if statement, loop, or function).
+                      They exist only inside those curly braces and cannot be seen from the outside.</p>
+
+        <h2>Keyword Access Barriers (let / const vs. var)</h2>
+
+                <p>Modern JavaScript uses let and const, which respect Block Scope {}.
+                     Legacy JavaScript used var, which ignores block boundaries and 
+                     leaks outside curly braces!</p>
+    
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
