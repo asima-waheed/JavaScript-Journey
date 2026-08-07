@@ -67,7 +67,7 @@ JavaScript-Journey/
 ---
 ### 🚀 **Live Interactive Deployment**
 
-🔗 [Experience the interactive dashboard on Vercel] (https://asima-javascript-journey.vercel.app)
+🔗 [Experience the interactive dashboard on Vercel] [https://asima-java-script-journey.vercel.app](https://asima-java-script-journey.vercel.app)
 
 ---
 
